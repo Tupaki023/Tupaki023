@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
    🌱 I’m currently learning Frontend Technologies
 - 💞️ I’m looking to collaborate on ReactJS remote projects
-- 📫 How to reach me 
+- 📫 How to reach me tupakulasunilkumar33@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
